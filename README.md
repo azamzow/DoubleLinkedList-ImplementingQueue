@@ -4,7 +4,7 @@
 
 This project has two parts,
 
- - Part1:  Is a C++ implementation of a DoublyLinkedList for generic and integer types. 
+ - <u>Part1:  Is a C++ implementation of a DoublyLinkedList for generic and integer types. </u>
     - The <u>DoublyLinkedList</u> program creates a double linked list using pointers and nodes. In this program, we create 3 different lists, by adding, removing, copying, from the front and back of the list using integers. The methods below describe how the program works. 
        - copy constructor method that inserts a new node
        - destructor method that deletes a node. 
@@ -21,14 +21,14 @@ This project has two parts,
        - removeBefore() method removes a node before the node p.
        - DoublyLinkedListLength() method returns the length of the called list.
     - The <u>TemplatedLinkedList</u> program does the same thing the DoublyLinkedList does but it uses characters inside the lists instead of integers. All the same methods are used as shown in above. 
- - Part 2:  Is a C++ implementation of MinQueue data structure that can store comparable elements. 
+ - <u>Part 2:  Is a C++ implementation of MinQueue data structure that can store comparable elements. </u>
     - The <u>MinQueue</u> program creates a queue list implementing enQueue(), and deletes the list by implementing deQueue(). The program also uses que.size() to find the length of the list and que.min() to print out the minimum element inside of the list. 
 
 ### To Run
 
 Using terminal on Mac,
 
-DoubleLinkedList
+<u>DoubleLinkedList</u>
 ```
 $ cd DoubleLinkedList-ImplementingQueue
 $ cd DoubleLinkedList 
@@ -36,7 +36,7 @@ $ cd DoublyLinkedList
 $ /main
 ```
 
-TemplateDoublyLinkedList
+<u>TemplateDoublyLinkedList</u>
 ```
 $ cd DoubleLinkedList-ImplementingQueue
 $ cd ImplementingQueue
@@ -44,7 +44,7 @@ $ cd MinQueue
 $ /Main
 ```
 
-ImplementingQueue
+<u>ImplementingQueue</u>
 ```
 $ cd DoubleLinkedList-ImplementingQueue
 $ cd ImplementingQueue

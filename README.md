@@ -26,16 +26,30 @@ This project has two parts,
 
 ### To Run
 
-You can use this with both programs. Either double click hello termianl already made, or Using terminal on Mac,
+Using terminal on Mac,
 
+DoubleLinkedList
 ```
-1) $ cd DoubleLinkedList/ImplementingQueue
------------------------------
-2) $ cd DoubleLinkedList 
-   OR
-   $ cd ImplementingQueue
-------------------------------
-3) $ /hello
+$ cd DoubleLinkedList-ImplementingQueue
+$ cd DoubleLinkedList 
+$ cd DoublyLinkedList
+$ /main
+```
+
+TemplateDoublyLinkedList
+```
+$ cd DoubleLinkedList-ImplementingQueue
+$ cd ImplementingQueue
+$ cd MinQueue
+$ /Main
+```
+
+ImplementingQueue
+```
+$ cd DoubleLinkedList-ImplementingQueue
+$ cd ImplementingQueue
+$ cd MinQueue
+$ /a.out
 ```
 
 ### Output

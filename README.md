@@ -44,7 +44,7 @@ When the above programs are ran, they should look like this..
 
 <u>DoublyLinkedList</u>
 
-![DoublyLinkedList](https://github.com/azamzow/DDLIQ/blob/master/DoubleLinkedList/DoublyLinkedList.png?raw=true
+![DoublyLinkedList](https://github.com/azamzow/DoubleLinkedList-ImplementingQueue/blob/master/DoubleLinkedList/DoublyLinkedList.png?raw=true
 
 
 

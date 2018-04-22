@@ -26,9 +26,9 @@ This project has two parts,
 
 ### To Run
 
-Using terminal on Mac,
+Using terminal on Mac:
 
-<u>DoubleLinkedList</u>
+<u>DoubleLinkedList program</u>
 ```
 $ cd DoubleLinkedList-ImplementingQueue
 $ cd DoubleLinkedList 
@@ -36,7 +36,7 @@ $ cd DoublyLinkedList
 $ /main
 ```
 
-<u>TemplateDoublyLinkedList</u>
+<u>TemplateDoublyLinkedList program</u>
 ```
 $ cd DoubleLinkedList-ImplementingQueue
 $ cd ImplementingQueue
@@ -44,7 +44,7 @@ $ cd MinQueue
 $ /Main
 ```
 
-<u>ImplementingQueue</u>
+<u>ImplementingQueue program</u>
 ```
 $ cd DoubleLinkedList-ImplementingQueue
 $ cd ImplementingQueue
@@ -56,13 +56,13 @@ $ /a.out
 
 When the above programs are ran, they should look like this..
 
-<u>DoublyLinkedList</u>
+<u>DoublyLinkedList.png</u>
 
 ![DoublyLinkedList](https://github.com/azamzow/DoubleLinkedList-ImplementingQueue/blob/master/DoubleLinkedList/DoublyLinkedList.png?raw=true)
 
 
 
-<u>TemplatedLinkedList</u> 
+<u>TemplatedLinkedList.png</u> 
 
 ![TemplateDoublyLinkedListPart1](https://github.com/azamzow/DoubleLinkedList-ImplementingQueue/blob/master/DoubleLinkedList/TemplateDoublyLinkedListPart1.png?raw=true)
 
@@ -74,6 +74,6 @@ When the above programs are ran, they should look like this..
 
 
 
-<u>MinQueue</u>
+<u>MinQueue.png</u>
 
 ![MinQueue](https://github.com/azamzow/DoubleLinkedList-ImplementingQueue/blob/master/ImplementingQueue/MinQueue.png?raw=true)

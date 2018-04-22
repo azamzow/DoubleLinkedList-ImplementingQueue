@@ -44,17 +44,17 @@ When the above programs are ran, they should look like this..
 
 <u>DoublyLinkedList</u>
 
-![DoublyLinkedList](https://github.com/azamzow/DoubleLinkedList-ImplementingQueue/blob/master/DoubleLinkedList/DoublyLinkedList.png?raw=true
+![DoublyLinkedList](https://github.com/azamzow/DoubleLinkedList-ImplementingQueue/blob/master/DoubleLinkedList/DoublyLinkedList.png?raw=true)
 
 
 
 <u>TemplatedLinkedList</u> 
 
-![TemplateDoublyLinkedListPart1](https://github.com/azamzow/DoubleLinkedList-ImplementingQueue/blob/master/DoubleLinkedList/TemplateDoublyLinkedListPart1.png?raw=true
+![TemplateDoublyLinkedListPart1](https://github.com/azamzow/DoubleLinkedList-ImplementingQueue/blob/master/DoubleLinkedList/TemplateDoublyLinkedListPart1.png?raw=true)
 
 
 
-![TemplateDoublyLinkedListPart2](https://github.com/azamzow/DoubleLinkedList-ImplementingQueue/blob/master/DoubleLinkedList/TemplateDoublyLinkedListPart2.png?raw=true
+![TemplateDoublyLinkedListPart2](https://github.com/azamzow/DoubleLinkedList-ImplementingQueue/blob/master/DoubleLinkedList/TemplateDoublyLinkedListPart2.png?raw=true)
 
 
 
@@ -62,4 +62,4 @@ When the above programs are ran, they should look like this..
 
 <u>MinQueue</u>
 
-![MinQueue](https://github.com/azamzow/DoubleLinkedList-ImplementingQueue/blob/master/ImplementingQueue/MinQueue.png?raw=true
+![MinQueue](https://github.com/azamzow/DoubleLinkedList-ImplementingQueue/blob/master/ImplementingQueue/MinQueue.png?raw=true)
